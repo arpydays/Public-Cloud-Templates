@@ -21,3 +21,5 @@
   gather_facts: false
   roles:
    - f5_as3_declare
+  tags:
+    - as3
